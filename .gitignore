@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# YOLO training / runtime files
+runs/
+
+# OS files
+.DS_Store
